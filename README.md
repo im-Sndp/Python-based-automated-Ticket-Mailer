@@ -5,7 +5,7 @@ We have used SMTPLIB for automate mail and also it allows to send mail along wit
 
 Configure:
 
-  1.Allow less secure app access for your gmail by clicking on this link -> https://github.com/imzndp/esperanza.github.io.git
+  1.Allow less secure app access for your gmail by clicking on this link -> https://myaccount.google.com/lesssecureapps
   2.Configure run.py by adding your email and password in the respective field .
 
 Run:
