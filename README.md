@@ -3,7 +3,7 @@
 # ticket_book_and_send
 
 <p align="center">
-  <img src="project-preview.jpg" alt="Project Preview"/>
+  <img src="https://5.imimg.com/data5/NW/QU/MY-9713247/air-tickets-500x500.jpg" alt="Project Preview"/>
 </p>
 
 ```plaintext
