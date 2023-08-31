@@ -12,7 +12,7 @@
    | |  | __|/ _` |/ __||  _ \ / _ \/ __| |/ /   
    | |  | |_| (_| |\__ \| |_) |  __/ (__|   <    
    |_|   \__|\__,_||___/|____/ \___|\___|_|\_\   
-
+```
 <p align="center">
   Your ultimate ticketing solution with automated email delivery. Create, send, and store tickets seamlessly!
 </p>
